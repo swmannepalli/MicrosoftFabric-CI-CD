@@ -34,7 +34,7 @@ Git is essential for version control and CI/CD workflows.
 
 Follow instructions from this link -- https://learn.microsoft.com/en-us/rest/api/fabric/articles/fabric-command-line-interface#get-the-cli
 
-Make sure you log into the Fabric portal.cd 
+You don't have to log into the Fabric portal now.
 
 ## 📝 Exercise 3: Get the Workshop Code
 

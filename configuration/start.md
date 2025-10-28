@@ -30,16 +30,9 @@ Git is essential for version control and CI/CD workflows.
 > [!TIP]
 > If you already have Git installed, ensure it's version 2.25 or later for optimal compatibility with Microsoft Fabric git integration.
 
-## 📝 Exercise 2: Access Microsoft Fabric Portal
+## 📝 Exercise 2: Install Fabric CLI
 
-> **Goal:** Log into Microsoft Fabric with workshop credentials.
-
-
-### Navigate to Microsoft Fabric
-Visit the Microsoft Fabric website at [https://fabric.microsoft.com/](https://fabric.microsoft.com/).
-
-### Enter Your Password and Sign In
-Input your password in the designated field and click the `Sign In` button.
+Follow instructions from this link -- https://learn.microsoft.com/en-us/rest/api/fabric/articles/fabric-command-line-interface#get-the-cli
 
 ## 📝 Exercise 3: Get the Workshop Code
 
@@ -77,5 +70,16 @@ Input your password in the designated field and click the `Sign In` button.
    # Navigate into the cloned directory
     cd MicrosoftFabric-CICD
    ```
+
+   ## 📝 Exercise 4: Access Microsoft Fabric Portal
+
+> **Goal:** Log into Microsoft Fabric with workshop credentials.
+
+
+### Navigate to Microsoft Fabric
+Visit the Microsoft Fabric website at [https://fabric.microsoft.com/](https://fabric.microsoft.com/).
+
+### Enter Your Password and Sign In
+Input your password in the designated field and click the `Sign In` button.
 
 **[→ Click here to start Module 2: First Deployment](../deployment/module2.md)**

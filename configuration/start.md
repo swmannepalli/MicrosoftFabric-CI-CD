@@ -78,4 +78,4 @@ Input your password in the designated field and click the `Sign In` button.
     cd MicrosoftFabric-CICD
    ```
 
-**[→ Click here to start Module 2: First Deployment](../deployment/modeule2.md)**
+**[→ Click here to start Module 2: First Deployment](../deployment/module2.md)**

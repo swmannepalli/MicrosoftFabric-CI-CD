@@ -66,7 +66,7 @@ Input your password in the designated field and click the `Sign In` button.
 
 2. **Copy it to your machine:**
    
-   **Option A: Using Git Command Line (Recommended)**
+   **Using Git Command Line (Recommended)**
    ```bash
    # Navigate to your desired directory
    cd ~/Documents  # or your preferred location

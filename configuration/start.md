@@ -1,5 +1,13 @@
 # Module 1: Environment Setup - Getting Started
 
+## 🎯 Module Objectives
+
+By the end of this module, you will have:
+- ✅ Installed all required tools (Git, Python)
+- ✅ Set up fabric-cli and fabric-cicd packages
+- ✅ Connected to Microsoft Fabric portal
+- ✅ Cloned the workshop repository
+  
 ## 📝 Exercise 1: Install Git
 
 > **Goal:** Install Git version control system on your machine.

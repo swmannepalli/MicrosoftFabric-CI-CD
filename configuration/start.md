@@ -38,18 +38,12 @@ Git is essential for version control and CI/CD workflows.
 ### Navigate to Microsoft Fabric
 Visit the Microsoft Fabric website at [https://fabric.microsoft.com/](https://fabric.microsoft.com/).
 
-![Fabric Portal](../screenshots/setup/fabric-portal-login.png)
-
 ### Enter Your Password and Sign In
 Input your password in the designated field and click the `Sign In` button.
-
-![Password Entry](../screenshots/setup/fabric-password.png)
 
 ### Explore Data Engineering Workload
 1. Click the Microsoft Fabric icon in the bottom left corner
 2. Select **Data Engineering** from the workload menu
-
-![Workload Selection](../screenshots/setup/fabric-workloads.png)
 
 ## 📝 Exercise 3: Get the Workshop Code
 

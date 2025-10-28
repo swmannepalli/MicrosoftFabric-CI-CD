@@ -75,7 +75,7 @@ Input your password in the designated field and click the `Sign In` button.
    git clone https://github.com/swmannepalli/MicrosoftFabric-CICD
    
    # Navigate into the cloned directory
-  cd MicrosoftFabric-CICD
+    cd MicrosoftFabric-CICD
    ```
 
 **[→ Click here to start Module 2: First Deployment](../configuration/modeule2.md)**

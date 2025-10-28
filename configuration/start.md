@@ -41,10 +41,6 @@ Visit the Microsoft Fabric website at [https://fabric.microsoft.com/](https://fa
 ### Enter Your Password and Sign In
 Input your password in the designated field and click the `Sign In` button.
 
-### Explore Data Engineering Workload
-1. Click the Microsoft Fabric icon in the bottom left corner
-2. Select **Data Engineering** from the workload menu
-
 ## 📝 Exercise 3: Get the Workshop Code
 
 > **Goal:** Clone the workshop repository to your local machine.
@@ -61,8 +57,6 @@ Input your password in the designated field and click the `Sign In` button.
 
 2. **If you have an existing GitHub account:**
    - Sign in at [github.com](https://github.com)
-
-![GitHub Login](../screenshots/setup/github-login.png)
 
 ### 📦 Clone the Workshop Repository
 

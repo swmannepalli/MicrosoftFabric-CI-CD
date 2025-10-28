@@ -16,39 +16,17 @@ By the end of this module, you will have:
 
 Git is essential for version control and CI/CD workflows.
 
-### Windows (WSL)
-1. Install Windows Subsystem for Linux (WSL2) if not already installed:
-   ```powershell
-   wsl --install
-   ```
-2. Open WSL terminal and install Git:
-   ```bash
-   sudo apt update
-   sudo apt install git
-   ```
-3. Verify installation:
-   ```bash
-   git --version
-   ```
+### Windows 
 
-### macOS
-1. Install using Homebrew (recommended):
-   ```bash
-   brew install git
+1. Open Command Line Interface and run below command to install git,
+   
+   ```powershell
+   winget install --id Git.Git -e --source winget
    ```
-   Or download from [git-scm.com](https://git-scm.com/download/mac)
 2. Verify installation:
    ```bash
    git --version
    ```
-
-### Linux (Ubuntu/Debian)
-```bash
-sudo apt update
-sudo apt install git
-git --version
-```
-
 > [!TIP]
 > If you already have Git installed, ensure it's version 2.25 or later for optimal compatibility with Microsoft Fabric git integration.
 
